@@ -3,7 +3,6 @@
 ### I'm Carlos Eduardo! 👋
 
 - 🔭 Currently working on React and Node.js
-- 🌱 Currently learning Typescript and Next.js
 
   ##
   
