@@ -2,7 +2,7 @@
 
 ### I'm Carlos Eduardo! 👋
 
-- 🔭 Currently working on React and Node.js
+- 🔭 Currently working on Next.js and Node.js
 
   ##
   
