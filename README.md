@@ -2,7 +2,7 @@
 
 ### I'm Carlos Eduardo! 👋
 
-- 🔭 Currently working on Next.js and Node.js
+- 🔭 Fullstack web developer (BE most).
 
   ##
   
