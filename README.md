@@ -2,7 +2,7 @@
 
 ### I'm Carlos Eduardo! 👋
 
-- 🔭 Fullstack web developer (BE most).
+- 🔭 Node.js | React developer.
 
   ##
   
