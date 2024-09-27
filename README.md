@@ -2,7 +2,7 @@
 
 ### I'm Carlos Eduardo! 👋
 
-- 🔭 Node.js | React developer.
+- 🔭 Node.js | React | React Native.
 
   ##
   
