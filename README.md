@@ -2,7 +2,7 @@
 
 ### I'm Carlos Eduardo! 👋
 
-- 🔭 Javascript | Typescript | Dart | Kotlin.
+- 🔭 Typescript | Dart | Kotlin.
 
   ##
   
