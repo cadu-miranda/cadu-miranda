@@ -2,7 +2,7 @@
 
 ### I'm Carlos Eduardo! 👋
 
-- 🔭 Dart | Flutter | Node.js | React | React Native | Kotlin.
+- 🔭 Javascript | Typescript | Dart | Kotlin.
 
   ##
   
